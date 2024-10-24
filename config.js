@@ -9,18 +9,18 @@ global.setting = {
  }
 
 global.owner = [
-['6282285357346', 'Tio', true]
+['212625457341', 'ahmed aligue', true]
 ]
 
 global.info = {
- nomerbot: '6285176730524',
+ nomerbot: '212713542982',
  pairingNumber: '6282228545461',
- nameown: 'Tio',
- nomerown: '6282285357346',
+ nameown: 'ahmed aligue',
+ nomerown: '212625457341',
  packname: 'sticker by ',
- author: 'N I G H T M A R E',
- namebot: '乂 NightMare - MD',
- wm: 'N I G H T M A R E  -  M D',
+ author: 'SENKU BOT',
+ namebot: '乂 senku bot - MD',
+ wm: 'SENKU  -  M D',
  stickpack: 'Whatsapp',
  stickauth: 'Bot - MD'
 }
@@ -44,9 +44,9 @@ global.url = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/tulisan.ku.id',
- sgh:  'https://github.com/Tiooxy',
- sgc: 'https://chat.whatsapp.com/Fg17qkyJ5rWAtE5hlR5F0w'
+ sig: 'https://instagram.com',
+ sgh:  'https://github.com',
+ sgc: 'https://chat.whatsapp.com'
 }
 
 // Donasi
@@ -57,8 +57,8 @@ global.payment = {
 }
 // Info Wait
 global.msg = {
- wait: '⏱️ *Mohon bersabar*\n\> Sedang menjalankan perintah dari *User*!',
- eror: '🤖 *Information Bot*\n\> Mohon maaf atas ketidaknyamanan dalam menggunakan *Nightmare Bot* . Ada kesalahan dalam sistem saat menjalankan perintah.'
+ wait: '⏱️ *انتظر*\n\> سيتم الارسال بعد قليل *User*!',
+ eror: '🤖 *error*\n\> للاسف هناك خطا.'
 }
 
 global.multiplier = 69
