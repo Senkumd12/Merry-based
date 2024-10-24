@@ -38,7 +38,7 @@ handler.all = async function(m) {
 
         // Ini untuk command crator/owner
         global.kontak2 = [
-            [owner[0], await conn.getName(owner[0] + '6282285357346@s.whatsapp.net'), 'Tio', 'https://whatsapp.com', true],
+            [owner[0], await conn.getName(owner[0] + '212625457341@s.whatsapp.net'), 'senki', 'https://whatsapp.com', true],
         ]
 
         global.fkon = {
@@ -84,9 +84,9 @@ handler.all = async function(m) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    "newsletterJid": "120363183258593542@newsletter",
+                    "newsletterJid": "120363231725421032@newsletter",
                     "serverMessageId": 103,
-                    "newsletterName": `📡ping : ${ms}  ||  ⌜ NightMare MD ⌟ ©Tio`
+                    "newsletterName": `📡ping : ${ms}  ||  ⌜ senku bot ⌟ ©ahmed`
 
                 },
                 externalAdReply: {
@@ -134,18 +134,18 @@ function date() {
 
 function ucapan() {
     const time = moment.tz('Asia/Jakarta').format('HH')
-    let res = "Selamat malam "
+    let res = "السلام عليكم "
     if (time >= 4) {
-        res = "Selamat pagi "
+        res = "السلام عليكم "
     }
     if (time > 10) {
-        res = "Selamat siang "
+        res = "السلام عليكم "
     }
     if (time >= 15) {
-        res = "Selamat sore "
+        res = "السلام عليكم "
     }
     if (time >= 18) {
-        res = "Selamat malam "
+        res = "السلام عليكم "
     }
     return res
 }
